@@ -35,7 +35,7 @@ function Shortcuts({ openExplorer }) {
                     name="media_cd"
                     onClick={()=>startWebamp()}
                 />
-                <div>Media</div>
+                <div>Winamp</div>
             </StyledShorcut>
             <StyledShorcut>
                 <Icon

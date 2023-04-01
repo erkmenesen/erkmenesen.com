@@ -10,10 +10,10 @@ export default class DataService {
         content: {
           paragraphs: [
             "Hi, I'm Erkmen!",
-            "I am a Tech Lead based in Hamburg📍. For the last several years I've been working as a Tech/Team Lead in big Research companies.",
-            "I was developing mods for games in high school and I started programming with a forum site that I wrote to showcase these modes.",
-            'I have been developing software professionally for 9 years. In the last 5 years of this period, I was the software team leader and chief developer of a research company in Istanbul.',
-            'Between 2014 and 2015, I worked in e-Transformation and e-Invoice projects nationwide in Turkey and worked in a special R&D team at Istanbul Technical University.',
+            "I am a Tech Lead based in Hamburg📍. I've worked as a Tech/Team Lead in Agencies and Research companies for several years.",
+            "I was developing mods for games in high school, and I started programming with a forum site that I wrote to showcase these modes.",
+            'I have been developing software professionally for 10 years. In the last 5 years of this period, I was the software team leader and chief developer of a research company in Istanbul.',
+            'Between 2014 and 2015, I worked on e-Transformation and e-Invoice projects nationwide in Turkey and worked in a special R&D team at Istanbul Technical University.',
             'In my professional life, I had the chance to develop projects for worldwide companies such as Coca-Cola, Bosch, Nestle, and MediaMarkt.',
             'Although my main instrument is C#, I have worked with many different languages (for example, this site was developed with React..)',
             'By the way, did I mention I make music?'
@@ -40,12 +40,10 @@ export default class DataService {
               location: 'Hamburg',
               period: 'JAN 2023 – PRESENT',
               accomplishments: [
-                'Management of the Developer Team',
-                'End-to-End Project Design and Management Architecture, Algorithm and Library Design',
-                'Core Coding',
-                'Lead Development',
+                'We are a pioneering technology and marketing services company that creates end-to-end digital experiences for brands such as Google, KFC, Philips, Audi, Twitch, Patagonia, eBay and more.',
                 'Cloud Management (Azure, AWS)',
-                'Technologies used: C#, JS, ASP.NET, SQL Server, Redis, MongoDB, Azure, Docker',
+                'CI/CD: GitLab, Azure Repos',
+                'Technologies used: .NET 6-7, Optimizely DXP, TypeScript, SQL, Docker',
               ],
             },
             {
@@ -127,7 +125,11 @@ export default class DataService {
         content: {
           hard: [
             {
-              name: 'C# .NET',
+              name: '.NET Core',
+              progress: 100,
+            },
+            {
+              name: 'C#',
               progress: 100,
             },
             {
@@ -169,6 +171,14 @@ export default class DataService {
             {
               name: 'Azure',
               progress: 75,
+            },
+            {
+              name: 'TypeScript',
+              progress: 70,
+            },
+            {
+              name: 'React',
+              progress: 70,
             }
           ],
           soft: 'I am a fast learner. I know how to experience moments of chaos, how to be cold-blooded and find solutions. I want help in moments of blockage, I know that realizing and accepting this is the hardest part of the job. I like to lead and inspire like Jean-Luc Picard, not to direct.🖖',
