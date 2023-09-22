@@ -1,6 +1,8 @@
 # Portfolio
 A unique approach to the conventional developer websites [erkmenesen.com](https://erkmenesen.com/)
 
+![GitHub deployments](https://img.shields.io/github/deployments/erkmenesen/erkmenesen.com/production?label=production%20build)
+
 ## Credits
 * Built with [React](https://github.com/facebook/react)
 
